@@ -1,0 +1,10 @@
+<svg width="640" height="820" viewBox="0 0 640 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="820" fill="#E9DED1"/>
+  <rect x="38" y="36" width="564" height="748" fill="#F7F1E8" stroke="#D0C2B2" stroke-width="4"/>
+  <circle cx="320" cy="254" r="110" fill="#C1A58E"/>
+  <path d="M165 630C165 504 234 430 320 430C406 430 475 504 475 630V705H165V630Z" fill="#7088A6"/>
+  <path d="M226 607C226 526 266 483 320 483C374 483 414 526 414 607V705H226V607Z" fill="#8EA2BD"/>
+  <text x="320" y="756" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#1F3359" font-weight="700">
+    CEO Image
+  </text>
+</svg>

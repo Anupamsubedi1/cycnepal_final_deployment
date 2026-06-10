@@ -1,0 +1,612 @@
+{
+  "Home": {
+    "hero_title": "Empowering Dreams, Financing Futures",
+    "hero_subtitle": "A trusted microfinance institution empowering communities with accessible and reliable financial services.",
+    "welcome_title": "Welcome To CYC Nepal Laghubitta Bittiya Sanstha Ltd.",
+    "welcome_text1": "The CYC Nepal Laghubitta Bittiya Sanstha Ltd. is a leading Microfinance in Nepal. It was registered on 11 February 2019 as a public company as a class 'D' financial institution with the Nepal Rastra Bank under Act, 2063 and started formal microfinance operation from 15 March, 2019. CYC Nepal Laghubitta Bittiya Sanstha previously known as CYC (Chartare Youth Club) which is located in Samikshalaya Road Baglung.",
+    "welcome_text2": "Currently CYC Nepal Laghubitta Bittiya Sanstha is providing microfinance services to more than 59000 deprived household from Hilly and Mountainous regions of Nepal with prime focus on low-income households, assets-less, self-employed in the informal sector to uplift their livelihood increasing involvement in economic activities and income generating activities. Besides all these financial services, it also focuses on their social development, cultural promotion, educational development, skill development & many more by its fully operated 124 branch offices which are located in All over the Nepal.",
+    "read_more": "Read More",
+    "full_message": "Full Message",
+    "message_from_ceo_label": "Message From",
+    "message_from_ceo_title": "THE CEO",
+    "company_highlights_title": "Company Highlights",
+    "company_highlights_description": "Key metrics showcasing our growth and commitment to serving our members.",
+    "services_eyebrow": "Our Services",
+    "services_heading": "Our Services",
+    "services_heading_en": "Our Services",
+    "services_description": "Explore the services we provide to support your financial needs.",
+    "services_description_en": "Explore the services we provide to support your financial needs.",
+
+    "message_from_ceo": "Thank you for your continued hard work, dedication, and unwavering commitment to our shared goals. Every effort you put in, whether big or small, plays a vital role in shaping our success as a team and as an organization. Your professionalism, consistency, and willingness to go the extra mile do not go unnoticed. It is your collective effort that drives our progress, strengthens our foundation, and helps us move forward even in challenging times. We deeply value the time, energy, and passion you bring to your work each day.As we continue to grow, I want to encourage each of you to keep striving for excellence, to keep learning, and to keep pushing boundaries. Let us continue supporting one another, collaborating effectively, and maintaining the high standards that define who we are.Together, we are building something meaningful and lasting. I am truly grateful to have such a committed and talented team, and I look forward to what we will achieve together in the days ahead."
+
+     },
+     "about-us": {
+    "banner_title": "About us",
+    "banner_description": "Learn about CYC Nepal Laghubitta Bittiya Sanstha Ltd., our purpose, and our strategic direction for inclusive and responsible finance.",
+    "chairman_message_btn": "Chairman Message",
+    "board_of_directors_btn": "Board of Directors",
+    "introduction_label": "INTRODUCTION",
+    "welcome_title": "Welcome To CYC Nepal Laghubitta Bittiya Sanstha Ltd.",
+    "description_para1": "The CYC Nepal Laghubitta Bittiya Sanstha Ltd. is a leading Microfinance in Nepal. It was registered on 11 February 2019 as a public company as a class 'D' financial institution with the Nepal Rastra Bank under Act, 2063 and started formal microfinance operation from 15 March, 2019. CYC Nepal Laghubitta Bittiya Sanstha previously known as CYC (Chartare Youth Club) which is located in Samikshalaya Road Baglung.",
+    "description_para2": "Currently CYC Nepal Laghubitta Bittiya Sanstha is providing microfinance services to more than 59000 deprived household from Hilly and Mountainous regions of Nepal with prime focus on low-income households, assets-less, self-employed in the informal sector to uplift their livelihood increasing involvement in economic activities and income generating activities. Besides all these financial services, it also focuses on their social development, cultural promotion, educational development, skill development & many more by its fully operated 124 branch offices which are located in All over the Nepal.",
+    "vision_title": "VISION",
+    "vision_description": "To be a social financial institution that contributes to poverty reduction in Nepal by helping people become socially aware, increase entrepreneurship, and become financially self-reliant.",
+    "mission_title": "MISSION",
+    "mission_description": "To provide financial services, financial awareness, and social awareness to the people in financially unserved areas of Nepal in an easy and sustainable manner.",
+    "goals_title": "GOALS",
+    "goals_list": [
+      "Provide financial services to people by expanding services to remote areas of Nepal.",
+      "Transform financial awareness, entrepreneurship, and livelihood skills for people in rural areas.",
+      "Develop a well-managed, sustainable, and technically capable institution with highly motivated and skillful human resources.",
+      "Help poor families increase their income by involving women in income-generating activities."
+    ]
+  },
+  "chairman-message": {
+    "banner_title": "Chairman Message",
+    "banner_description": "A message from the Chairman outlining governance priorities and long-term commitment to inclusive financial growth.",
+    "introduction_btn": "Introduction",
+    "board_of_directors_btn": "Board of Directors",
+    "message_label": "MESSAGE FROM",
+    "message_title": "Chairman",
+    "text_para_1": "It gives me great pleasure to share a few words on behalf of CYC Nepal Laghubitta Bittiya Sanstha Ltd.",
+    "text_para_2": "Since our establishment in 2019, we have remained committed to empowering low-income households and underserved communities across the hilly and mountainous regions of Nepal. Our journey began with a clear vision to provide accessible financial services that create real opportunities for those who need them most. Today, with our expanding network of branches and dedicated team, we are proud to support thousands of families in improving their livelihoods.",
+    "text_para_3": "At CYC Nepal Laghubitta, we believe that financial inclusion is not just about providing loans and savings facilities. It is about building confidence, encouraging entrepreneurship, and creating sustainable income-generating opportunities. Alongside our financial services, we continue to promote social awareness, education, skill development, and cultural values within the communities we serve.",
+    "text_para_4": "Our progress would not have been possible without the trust of our clients, the dedication of our staff, and the continuous support of our stakeholders. We remain committed to strengthening this trust by maintaining transparency, accountability, and responsible banking practices.",
+    "text_para_5": "As we move forward, we will continue to expand our outreach, enhance service quality, and contribute meaningfully to the economic and social development of Nepal.",
+    "text_para_6": "Thank you for your continued trust and support.",
+    "signature_name": "Padhmanath Sharma",
+    "signature_designation": "CHAIRMAN"
+  },
+ "board-of-directors": {
+    "banner_title": "Board of Directors",
+    "banner_description": "Meet the board members guiding governance, oversight, and long-term institutional growth.",
+    "introduction_btn": "Introduction",
+    "chairman_message_btn": "Chairman Message",
+    "section_eyebrow": "LEADERSHIP",
+    "section_title": "Board of Directors",
+    "section_description": "Hover any card to see the contact details.",
+    "members": {
+      "padhmanath_sharma": "Padhmanath Sharma",
+      "tarun_paudel": "Dr. Tarun Paudel",
+      "laxman_khadka": "Laxman Khadka Chhetri",
+      "suman_gharti": "Suman Gharti Chhetri",
+      "dilip_paudel": "Dilip Paudel",
+      "dolindra_sharma": "Dolindra Prasad Sharma"
+    },
+    "roles": {
+      "chairman": "Chairman",
+      "director": "Director",
+      "director_public": "Director (Public)",
+      "independent_director": "Independent Director",
+      "company_secretary": "Company Secretary"
+    }
+  },
+  "management-team": {
+    "banner_title": "Management Team",
+    "banner_description": "Meet the management team responsible for operations, execution quality, and client-focused delivery.",
+    "introduction_btn": "Introduction",
+    "chairman_message_btn": "Chairman Message",
+    "section_eyebrow": "MANAGEMENT TEAM",
+    "section_title": "Operational Leadership",
+    "section_description": "Leadership team driving daily operations, service standards, and institutional performance.",
+    "members": {
+      "dolindra_sharma": "Dolindra Prasad Sharma",
+      "baburam_kunwar": "Baburam Kunwar",
+      "sangita_paudel": "Sangita Paudel"
+    },
+    "roles": {
+      "ceo": "Chief Executive Officer",
+      "dceo": "Deputy Chief Executive Officer",
+      "training_head": "Training Department Head"
+    },
+    "explore_section": {
+      "eyebrow": "ABOUT US PAGES",
+      "title": "Explore All Four About Us Pages",
+      "description": "Navigate between Introduction, Chairman Message, Board of Directors, and Management Team pages.",
+      "card_intro_title": "Introduction",
+      "card_intro_desc": "Institutional profile, mission, vision, and strategic focus areas.",
+      "card_chairman_title": "Chairman Message",
+      "card_chairman_desc": "Chairman perspective on governance, inclusion, and long-term growth.",
+      "card_board_title": "Board of Directors",
+      "card_board_desc": "Profiles of board members guiding policy and institutional oversight.",
+      "card_management_title": "Management Team",
+      "card_management_desc": "Operational leadership responsible for execution and service quality.",
+      "btn_open": "OPEN",
+      "btn_current": "CURRENT"
+    }
+  },
+ "loans": {
+    "banner": {
+      "title": "Loans",
+      "description": "Explore loan category details and move to dedicated calculators for EMI and total interest estimation.",
+      "btn_categories": "Loan Categories",
+      "btn_emi": "EMI Calculator"
+    },
+    "listing_section": {
+      "eyebrow": "LOANS",
+      "title": "Loan Type and Interest Rate Listing",
+      "description": "Professional rate listing based on your requested loan categories and percentages.",
+      "footer_note": "Continue to the loan subpages for dedicated EMI and Loan Interest calculators."
+    },
+    "table": {
+      "columns": {
+        "sn": "S.N",
+        "type": "Loan Type",
+        "rate": "Interest Rate (%)"
+      },
+      "data": [
+        { "sn": 1, "type": "General Loan", "rate": "14.5%" },
+        { "sn": 2, "type": "Seasonal Loan", "rate": "14.5%" },
+        { "sn": 3, "type": "Housing Loan", "rate": "14.75%" },
+        { "sn": 4, "type": "Microenterprise Loan", "rate": "14.75%" },
+        { "sn": 5, "type": "Renewable Energy Loan", "rate": "14.5%" },
+        { "sn": 6, "type": "Foreign Employment Loan", "rate": "14.5%" },
+        { "sn": 7, "type": "Education Loan", "rate": "14.5%" },
+        { "sn": 8, "type": "Cyc Emergency Loan", "rate": "14.5%" },
+        { "sn": 9, "type": "Cyc Enterprise Development Loan", "rate": "14.75%" }
+      ]
+    },
+    "details_section": {
+      "eyebrow": "LOAN PAGES",
+      "title": "Loan Details and Tools",
+      "description": "Navigate between loan categories, EMI calculator, and loan interest calculator pages.",
+      "card_overview_title": "Loans Overview",
+      "card_overview_text": "Parent page with loan highlights and quick navigation.",
+      "card_categories_title": "Loan Categories",
+      "card_categories_text": "Loan type listing with interest rates.",
+      "card_emi_title": "EMI Calculator",
+      "card_emi_text": "Estimate monthly EMI and total payment.",
+      "card_interest_title": "Loan Interest Calculator",
+      "card_interest_text": "Estimate total interest and total payable amount.",
+      "btn_current": "CURRENT",
+      "btn_open": "OPEN"
+    }
+  },
+  
+  "loan-categories": {
+    "banner_title": "Loan Categories",
+    "banner_description": "Detailed listing of loan categories and annual interest rates for public reference.",
+    "emi_calculator_btn": "EMI Calculator",
+    "interest_calculator_btn": "Loan Interest Calculator",
+    "section_eyebrow": "LOAN CATEGORIES",
+    "section_title": "Loan Category Interest Matrix",
+    "section_description": "First loan subpage showing the complete requested category and interest-rate listing."
+  }, 
+  "emi-calculator": {
+    "banner_title": "EMI Calculator",
+    "banner_description": "Second loan subpage for monthly installment estimation based on principal, rate, and tenure.",
+    "loan_categories_btn": "Loan Categories",
+    "interest_calculator_btn": "Loan Interest Calculator",
+    "section_eyebrow": "EMI CALCULATOR",
+    "section_title": "Monthly Installment Estimation",
+    "section_description": "Use this calculator to understand monthly obligations before selecting a loan product.",
+    "calculator_card_title": "EMI Calculator",
+    "calculator_card_subtitle": "Calculate monthly installment based on principal, annual rate, and tenure.",
+    "label_principal": "Principal (NPR)",
+    "label_interest_rate": "Annual Interest Rate (%)",
+    "label_tenure": "Tenure (months)",
+    "result_monthly_emi": "Monthly EMI",
+    "result_total_interest": "Total Interest",
+    "result_total_payment": "Total Payment"
+  },
+  "loan-interest-calculator": {
+    "banner_title": "Loan Interest Calculator",
+    "banner_description": "Third loan subpage for estimating total interest and total amount payable.",
+    "loan_categories_btn": "Loan Categories",
+    "emi_calculator_btn": "EMI Calculator",
+    "section_eyebrow": "LOAN INTEREST CALCULATOR",
+    "section_title": "Simple Interest Estimation",
+    "section_description": "Estimate total interest and total payable amount for planning and comparison."
+  },
+  "savings": {
+    "banner": {
+      "title": "Saving Details",
+      "description": "Parent-only savings page highlighting the requested saving products and interest rates.",
+      "btn_explore": "Explore Loans",
+      "btn_contact": "Contact Support"
+    },
+    "listing_section": {
+      "eyebrow": "SAVING",
+      "title": "Saving Type and Interest Rate Listing",
+      "description": "Single-page savings details as requested, with no savings subpages.",
+      "footer_note": "This savings section remains a single parent page only, with no additional subpages."
+    },
+    "table": {
+      "columns": {
+        "sn": "S.N",
+        "type": "Saving Type",
+        "rate": "Interest Rate (%)"
+      },
+      "data": [
+        {
+          "sn": 1,
+          "type": "Compulsory saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 2,
+          "type": "Personal saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 4,
+          "type": "Special saving",
+          "rate": "8-9.5%"
+        },
+        {
+          "sn": 3,
+          "type": "Cyc pension saving",
+          "rate": "13.30%"
+        },
+        {
+          "sn": 5,
+          "type": "Welfare Saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 6,
+          "type": "Housing saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 7,
+          "type": "Child saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 8,
+          "type": "Festival saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 9,
+          "type": "Jewelry saving",
+          "rate": "7.5%"
+        },
+        {
+          "sn": 10,
+          "type": "Cyc Pewa Saving",
+          "rate": "7.5%"
+        }
+      ]
+    }
+  },
+  "reports": {
+    "banner": {
+      "title": "Reports, Disclosures, and Base Rate Overview",
+      "description": "Financial highlights are organized into annual and quarterly report pages with downloadable attachment cards. The base rate table below is structured for admin-managed updates.",
+      "btn_annual": "Annual Reports",
+      "btn_quarterly": "Quarterly Reports"
+    },
+    "report_collections": {
+      "eyebrow": "REPORT COLLECTIONS",
+      "title": "Annual and Quarterly Report Library",
+      "description": "Select a report category below to browse period-wise documents in a grid attachment layout.",
+      "annual_card": {
+        "title": "Annual Reports",
+        "description": "Audited annual reports, governance statements, and financial disclosures.",
+        "link_text": "Open Annual Reports"
+      },
+      "quarterly_card": {
+        "title": "Quarterly Reports",
+        "description": "Periodic portfolio, compliance, and performance summaries.",
+        "link_text": "Open Quarterly Reports"
+      }
+    },
+    "base_rate_section": {
+      "eyebrow": "BASE RATE TABLE",
+      "title": "Recent Base Rate History",
+      "description": "This table can be controlled from CMS to publish updated rates by effective date.",
+      "table": {
+        "columns": {
+          "effective_date": "Effective Date",
+          "base_rate": "Base Rate",
+          "spread_rate": "Spread Rate",
+          "final_rate": "Final Lending Rate"
+        },
+        "data": [
+          {
+            "effective_date": "Apr 1, 2026",
+            "base_rate": "8.10%",
+            "spread_rate": "3.20%",
+            "final_rate": "11.30%"
+          },
+          {
+            "effective_date": "Jan 1, 2026",
+            "base_rate": "8.40%",
+            "spread_rate": "3.10%",
+            "final_rate": "11.50%"
+          },
+          {
+            "effective_date": "Oct 1, 2025",
+            "base_rate": "8.70%",
+            "spread_rate": "3.20%",
+            "final_rate": "11.90%"
+          },
+          {
+            "effective_date": "Jul 1, 2025",
+            "base_rate": "8.90%",
+            "spread_rate": "3.30%",
+            "final_rate": "12.20%"
+          }
+        ]
+      }
+    }
+  },"annual_reports": {
+    "banner": {
+      "title": "Annual Reports",
+      "description": "Browse annual disclosures and downloadable report attachments in a card-based grid layout.",
+      "btn_back": "Back to Highlights",
+      "btn_quarterly": "View Quarterly Reports"
+    },
+    "documents_section": {
+      "eyebrow": "ATTACHMENTS",
+      "title": "Annual Report Documents",
+      "description": "Attachment cards are structured for CMS-managed files and metadata.",
+      "card_format": "PDF",
+      "btn_download": "Download",
+      "data": [
+        { "title": "Annual report 2075/2076" },
+        { "title": "Annual report 2076/2077" },
+        { "title": "Annual report 2077/2078" },
+        { "title": "Annual report 2078/2079" },
+        { "title": "Annual report 2079/2080" },
+        { "title": "Annual report 2080/2081" },
+        { "title": "SGM Report 2078" },
+        { "title": "SGM REPORT 2079" },
+        { "title": "base rate" }
+      ]
+    }
+  },
+  "quarterly_reports": {
+    "banner": {
+      "title": "Quarterly Reports",
+      "description": "Access quarter-wise reports, portfolio summaries, and compliance documents.",
+      "btn_back": "Back to Highlights",
+      "btn_annual": "View Annual Reports"
+    },
+    "documents_section": {
+      "eyebrow": "ATTACHMENTS",
+      "title": "Quarterly Report Documents",
+      "description": "Cards below represent quarter-wise downloadable reports grouped by fiscal year.",
+      "card_format": "PDF",
+      "btn_download": "Download",
+      "fiscal_years": [
+        {
+          "year": "2082/83",
+          "reports": [
+            { "title": "Financial Report 1st Quarter 2082/83" },
+            { "title": "Financial Report 2nd Quarter 2082/83" }
+          ]
+        },
+        {
+          "year": "2081/82",
+          "reports": []
+        },
+        {
+          "year": "2080/81",
+          "reports": []
+        }
+      ]
+    }
+  },
+  "base_rate": {
+    "banner": {
+      "title": "Base Rate",
+      "description": "Downloadable base rate schedules and published images grouped in the Base Rate folder.",
+      "btn_back": "Back to Highlights",
+      "btn_annual": "View Annual Reports",
+      "btn_quarterly": "View Quarterly Reports"
+    },
+    "documents_section": {
+      "eyebrow": "ATTACHMENTS",
+      "title": "Base Rate Documents",
+      "description": "PDFs and image files published by the bank. Click to download or view the file.",
+      "btn_download": "Download",
+      "data": [
+        { "title": "Base Rate 1", "format": "JPG" },
+        { "title": "Base rate 6", "format": "JPG" },
+        { "title": "Base-rate 5", "format": "JPG" },
+        { "title": "Base_Rate_80-81", "format": "JPG" },
+        { "title": "Base_rate 7", "format": "JPG" },
+        { "title": "Base_rate-3", "format": "JPG" },
+        { "title": "Base_rate-Magh", "format": "JPG" },
+        { "title": "Intrest-Rate", "format": "PDF" },
+        { "title": "Intrest-rate-chaitra", "format": "PDF" },
+        { "title": "base rate 8", "format": "JPG" },
+        { "title": "base rate 9", "format": "JPG" },
+        { "title": "base-rate 2", "format": "JPG" }
+      ]
+    }
+  },
+  "Branches": {
+    "title": "{province} Province",
+    "description": "Complete contact details and branch network for {province} Province.",
+    "branchCount": "{count} branches",
+    "labels": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "manager": "Manager"
+    },
+    "provinces": {
+      "Koshi": "Koshi",
+      "Madesh": "Madesh",
+      "Bagmati": "Bagmati",
+      "Gandaki": "Gandaki",
+      "Lumbini": "Lumbini",
+      "Karnali": "Karnali",
+      "Sudurpaschim": "Sudurpaschim"
+    },
+    "data": [
+      {
+        "province": "Koshi",
+        "branchCount": 16,
+        "branches": [
+          { "name": "Katahari Branch", "manager": "Smiriti Kumari Majhi", "address": "Katahari Rm-07, Morang", "phone": "9857646263", "email": "katahari57.cycnlbsl@gmail.com" },
+          { "name": "Siddhicharan Branch", "manager": "Kirshna Prasad paudel", "address": "Siddhicharan Mun-02, Okhaldhunga", "phone": "9857646275", "email": "Siddhicharan67.cycnlbsl@gmail.com" },
+          { "name": "Illam Branch", "manager": "Upendra Yadav", "address": "Illam Mun-04, Illam", "phone": "9857646276", "email": "Illam68.cycnlbsl@gmail.com" },
+          { "name": "Pakhribas Branch", "manager": "Rewati Raman Niraula", "address": "Pakhribas Mun-07, Dhankuta", "phone": "9857646280", "email": "Pakhribas72.cycnlbsl@gmail.com" },
+          { "name": "Damak", "manager": "Pramila Basnet", "address": "Damak Mun-01, Jhapa", "phone": "9857646281", "email": "Damak73.cycnlbsl@gmail.com" },
+          { "name": "Triyuga Branch", "manager": "Sangita Rai", "address": "Triyuga Mun-01, Udaypur", "phone": "9857646282", "email": "Triyuga74.cycnlbsl@gmail.com" },
+          { "name": "Solu Branch", "manager": "Sujan Kathet", "address": "Solu Dudhkunda Mun-04, Solukhumbu", "phone": "9857646305", "email": "solu82.cycnlbsl@gmail.com" },
+          { "name": "Manebhanjyang Branch", "manager": "Amita Bachan Sharma", "address": "Manebhanjyang Mun-04, Okhaldunga", "phone": "9857646297", "email": "manebhanjyang83.cycnlbsl@gmail.com" },
+          { "name": "Phungling Branch", "manager": "Dhurba Paudel", "address": "Phungling Mun Ward No-03, Taplejung", "phone": "9857646298", "email": "phungling84.cycnlbsl@gmail.com" },
+          { "name": "Phidim Branch", "manager": "Khim Maya Sinjali", "address": "Phidim Mun-03, Panchthar", "phone": "9857646299", "email": "phidim.cycnlbsl@gmail.com" },
+          { "name": "Myanglung Branch", "manager": "Lekh Bahadur Khamcha", "address": "Myanglung Mun-03, Terhathum", "phone": "9857646300", "email": "myanglung85.cycnlbsl@gmail.com" },
+          { "name": "Bhojpur Branch", "manager": "Nabin Rai", "address": "Bhojpur Mun-06, Bhojpur", "phone": "9857646301", "email": "bhojpur86.cycnlbsl@gmail.com" },
+          { "name": "Hilihang Branch", "manager": "Rina Kumari Kumal", "address": "Hilihang Rm-05, Panchthar", "phone": "9857646302", "email": "hilihang87.cycnlbsl@gmail.com" },
+          { "name": "Khandabari Branch", "manager": "Bhim Prasad Budhathoki", "address": "Khandabari Mun-08, Sankhuwasabha", "phone": "9857646303", "email": "khandbari88.cycnlbsl@gmail.com" },
+          { "name": "Diktel Branch", "manager": "Babita Basnet", "address": "Diktel Rupakot Mujuwagadhi Mun-05, Khotang", "phone": "9857646304", "email": "diktel89.cycnlbsl@gmail.com" },
+          { "name": "Inaruwa Branch", "manager": "Deepak Raj Nishad", "address": "Inaruwa Mun-08, Sunsari", "phone": "9857646309", "email": "inaruwa99.cycnlbsl@gmail.com" }
+        ]
+      },
+      {
+        "province": "Madesh",
+        "branchCount": 13,
+        "branches": [
+          { "name": "Ganeshman Branch", "manager": "Ramesh Kumar Yadav", "address": "Ganeshman Charnath Mun-01, Dhanusha", "phone": "9857646255", "email": "ganeshman49.cycnlbsl@gmail.com" },
+          { "name": "Lalbandi Branch", "manager": "Subodh Kumar Yadav", "address": "Lalbandi Mun-08, Sarlahi", "phone": "9857646261", "email": "lalbandi55.cycnlbsl@gmail.com" },
+          { "name": "Gaur Branch", "manager": "BIVEK KUMAR SHAH", "address": "Gaur Mun-02, Rautahat", "phone": "9857646245", "email": "gaur66.cycnlbsl@gmail.com" },
+          { "name": "Bardibas Branch", "manager": "Dev Sundar Mandal", "address": "Bardibas Mun-05, Mahottari", "phone": "9857646283", "email": "Bardibas75.cycnlbsl@gmail.com" },
+          { "name": "Birgunj", "manager": "SUSHIL PRASAD YADAV", "address": "Birgunj MPC-17, Parsa", "phone": "9857646287", "email": "birgunj76.cycnlbsl@gmail.com" },
+          { "name": "Golbazar Branch", "manager": "Pinky Chaudhary", "address": "Siraha Mun-08, Golbazar", "phone": "9857646343", "email": "golbazar91.cycnlbsl@gmail.com" },
+          { "name": "Rajbiraj Branch", "manager": "Jivach Yadav", "address": "Saptari Mun-08, Rajbiraj", "phone": "9857646344", "email": "rajbiraj92.cycnlbsl@gmail.com" },
+          { "name": "Bhawani Branch", "manager": "Devnath Patel", "address": "Girabhawani Rm-03, parsa", "phone": "9857646346", "email": "bhawani94.cycnlbsl@gmail.com" },
+          { "name": "Nijgadh Branch", "manager": "Ambikaesh Kumar Yadav", "address": "Nijgadh Mun-11, Bara", "phone": "9857646347", "email": "nijgadh96.cycnlbsl@gmail.com" },
+          { "name": "Durgabhagwati Branch", "manager": "SANTOSH PRASAD SAH", "address": "Durgabhagwati Rm-4, Rautahat", "phone": "9857646348", "email": "durgabhagwati97.cycnlbsl@gmail.com" },
+          { "name": "Bagmati Branch", "manager": "Ayan Mishra", "address": "Bagmati Mun-5, Sarlahi", "phone": "9857646349", "email": "bagmati98.cycnlbsl@gmail.com" },
+          { "name": "Pipara Branch", "manager": "Suwan Kumar Rajbanshi", "address": "Pipara Rm-07, Mahottari", "phone": "9857646350", "email": "pipara99.cycnlbsl@gmail.com" },
+          { "name": "kshireshwornath Branch", "manager": "NAGENDRA PRASAD SAH", "address": "kshireshwornath Mun-01, Dhanusha", "phone": "9857646336", "email": "kshireshwornath100.cycnlbsl@gmail.com" }
+        ]
+      },
+      {
+        "province": "Bagmati",
+        "branchCount": 14,
+        "branches": [
+          { "name": "Dhading Branch", "manager": "Keshavraj Timilsina", "address": "Nilkhantha Mun-03, Dhading", "phone": "9857646201", "email": "dhading32.cycnlbsl@gmail.com" },
+          { "name": "Nuwakot Branch", "manager": "Bishnu Prasad Ghimire", "address": "Bidur Mun-08, Nuwakot", "phone": "9857646236", "email": "nuwakot33.cycnlbsl@gmail.com" },
+          { "name": "Mugling Branch", "manager": "Sudarshan Paudel", "address": "Ichchha Kamana RM-06, Mugling", "phone": "9857646235", "email": "mugling34.cycnlbsl@gmail.com" },
+          { "name": "Shami Branch", "manager": "Amrit Subedi", "address": "Budhanilkhantha Mun-6, Kathmandu", "phone": "9857646247", "email": "shami40.cycnlbsl@gmail.com" },
+          { "name": "Kalpavrikshya Branch", "manager": "Biva Roy", "address": "Godawari Mun-9, Lalitpur", "phone": "9857646246", "email": "kalpavriksha41.cycnlbsl@gmail.com" },
+          { "name": "Kanchan Branch", "manager": "Dipesh Majhi", "address": "Choutara Sangachowkgadhi Mun-10, Sindhupalchok", "phone": "9857646249", "email": "kanchan43.cycnlbsl@gmail.com" },
+          { "name": "Tamakoshi Branch", "manager": "Alina Pun", "address": "Likhu Tamakoshi Rm-06, Ramechap", "phone": "9857646257", "email": "tamakoshi51.cycnlbsl@gmail.com" },
+          { "name": "Golanjor Branch", "manager": "Devraj Giri", "address": "Golanjor-06, Sindhuli", "phone": "9857646262", "email": "golanjor56.cycnlbsl@gmail.com" },
+          { "name": "Patlekhet Branch", "manager": "Mina Shrees", "address": "Dhulikhel Mun-11, Kavrepalanchok", "phone": "9857646264", "email": "patlekhet58.cycnlbsl@gmail.com" },
+          { "name": "Bhimeshwor Branch", "manager": "Prasuna Pandit", "address": "Bhimeshwor Mun-02, Dolakha", "phone": "9857646265", "email": "bhimeshwor59.cycnlbsl@gmail.com" },
+          { "name": "Panauti Branch", "manager": "Sandip Chamar", "address": "Panauti Mun-09, Kavrepalanchok", "phone": "9857646271", "email": "panauti65.cycnlbsl@gmail.com" },
+          { "name": "Thaha Branch", "manager": "Mina Chaudhary", "address": "Thaha Mun-04, Makwanpur", "phone": "9857646294", "email": "thaha82.cycnlbsl@gmail.com" },
+          { "name": "Sudal Branch", "manager": "Uma devi Gautam", "address": "Changunarayan Mun-08, Bhaktapur", "phone": "9857646295", "email": "sudal95.cycnlbsl@gmail.com" },
+          { "name": "Kalika Branch", "manager": "Chhand Prasad Aryal", "address": "kalika Mun-01, Ramche Rasuwa", "phone": "9857646322", "email": "kalika93.cycnlbsl@gmail.com" }
+        ]
+      },
+      {
+        "province": "Gandaki",
+        "branchCount": 29,
+        "branches": [
+          { "name": "Baglung Branch", "manager": "Rajak Bishowkarma", "address": "Baglung Mun-03, Baglung", "phone": "9857646203", "email": "baglung02.cycnlbsl@gmail.com" },
+          { "name": "Khairenitar Branch", "manager": "Dhirendra pd Neupane", "address": "Suklagandagi 7 Tanahaun", "phone": "9857646216", "email": "khairenitar16.cycnlbsl@gmail.com" },
+          { "name": "Hatiya Branch", "manager": "Radhika Thapa", "address": "Galkot Mun-03, Hatiya", "phone": "9857646204", "email": "hatiya03.cycnlbsl@gmail.com" },
+          { "name": "Besisahar Branch", "manager": "Bhoj Bahadur Lohar", "address": "Besisahar Mun-07, Lamjung", "phone": "9857646206", "email": "besisahar05.cycnlbsl@gmail.com" },
+          { "name": "Sundarbazar Branch", "manager": "Dipak Khatri", "address": "Sundarbazar Mun-07, Lamjung", "phone": "9857646207", "email": "sundarbazar06.cycnlbsl@gmail.com" },
+          { "name": "Kharbang Branch", "manager": "Yanu Buda Magar", "address": "Badigaad RM-02, Kharbang", "phone": "9857646208", "email": "kharbang07.cycnlbsl@gmail.com" },
+          { "name": "Burtibang Branch", "manager": "Rita Thapa", "address": "Dhorpatan Mun-01, Burtibang", "phone": "9857646209", "email": "burtibang08.cycnlbsl@gmail.com" },
+          { "name": "Kushmishera Branch", "manager": "Sabitri Sharma", "address": "Jaimini Mun-01, Kushmishera", "phone": "9857646210", "email": "kushmishera09.cycnlbsl@gmail.com" },
+          { "name": "Belbagar Branch", "manager": "Tabita Thapa", "address": "Jaimini Mun-08, Baglung", "phone": "9857646222", "email": "belbagar12.cycnlbsl@gmail.com" },
+          { "name": "Bareng Branch", "manager": "Narmaya Thapa", "address": "Bareng RM-02, Baglung", "phone": "9857646213", "email": "bareng13.cycnlbsl@gmail.com" },
+          { "name": "Acchete Branch", "manager": "Jhalak Paudel", "address": "Kanthekhola RM-02, Baglung", "phone": "9857646214", "email": "acchete14.cycnlbsl@gmail.com" },
+          { "name": "Damauli Branch", "manager": "Yubraj Gautam", "address": "Vyas Mun-02, Tanahun", "phone": "9857646215", "email": "damauli15.cycnlbsl@gmail.com" },
+          { "name": "Bhorletar Branch", "manager": "Hemlal Shrees", "address": "Madhyanepal Mun-06, Bhorletar", "phone": "9857646218", "email": "bhorletar18.cycnlbsl@gmail.com" },
+          { "name": "Babiyachaur Branch", "manager": "Pabitra Pandit Bista", "address": "Mangala RM-09, Babiyachaur", "phone": "9857646228", "email": "babiyachaur23.cycnlbsl@gmail.com" },
+          { "name": "Galeshwor Branch", "manager": "Sarada Rana", "address": "Beni Mun-02, Galeshwor", "phone": "9857646229", "email": "galeshwor24.cycnlbsl@gmail.com" },
+          { "name": "Huwas Branch", "manager": "Krishna Kumari Bhusal Neupane", "address": "Paiyun RM- 4, Pabat", "phone": "9857646231", "email": "huwas26.cycnlbsl@gmail.com" },
+          { "name": "Waling Branch", "manager": "Guma Basnet", "address": "Waling Mun-9, Bhumre", "phone": "9857646237", "email": "waling29.cycnlbsl@gmail.com" },
+          { "name": "Chhepeter Branch", "manager": "Bishnu Gautam", "address": "Chhepeter, Gorkha", "phone": "9857646239", "email": "chhepeter30.cycnlbsl@gmail.com" },
+          { "name": "Kolhuwa Branch", "manager": "Puja Gotame", "address": "Madhya Bindu Municipality", "phone": "9857646238", "email": "kolhuwa31.cycnlbsl@gmail.com" },
+          { "name": "Jaljala Branch", "manager": "Aliza Lamsal", "address": "Jaljala RM-03, Jaljala", "phone": "9857646241", "email": "jaljala35.cycnlbsl@gmail.com" },
+          { "name": "Lahachok Branch", "manager": "Sabitri Shrestha", "address": "Lahachok, Kaski", "phone": "9857646242", "email": "lahachok36.cycnlbsl@gmail.com" },
+          { "name": "Pragatinagar Branch", "manager": "Dayaram Thapa", "address": "Devchuli Mun-14, Pragtinagar", "phone": "9857646243", "email": "pragatinagar37.cycnlbsl@gmail.com" },
+          { "name": "Sardi Branch", "manager": "Rina Kumari Kumal", "address": "Sardi, Nawalparasi", "phone": "9857646244", "email": "sardi38.cycnlbsl@gmail.com" },
+          { "name": "Bhanubhakta Branch", "manager": "Krishna Prasad Paudel", "address": "Bhanubhakta, Tanahun", "phone": "9857646249", "email": "bhanubhakta53.cycnlbsl@gmail.com" },
+          { "name": "Bayarghari Branch", "manager": "Kabita Bhusal", "address": "Bayarghari, Syangja", "phone": "9857646320", "email": "bayarghari113.cycnlbsl@gmail.com" },
+          { "name": "Budhibazar Branch", "manager": "Deepak Subedi", "address": "Budhibazar, Kaski", "phone": "9857646321", "email": "budhibazar114.cycnlbsl@gmail.com" },
+          { "name": "Galyang Branch", "manager": "Saraswati Gautam Bhattarai", "address": "Galyang, Syangja", "phone": "9857646324", "email": "galyang120.cycnlbsl@gmail.com" },
+          { "name": "Gharpajhong Branch", "manager": "Sanjay Purja", "address": "Gharpajhong Rm-02, Mustang", "phone": "9857646227", "email": "gharpajhong101.cycnlbsl@gmail.com" },
+          { "name": "Chame Branch", "manager": "Subas lal Karna", "address": "Chame Rm-03, Manang", "phone": "9857646323", "email": "chame102.cycnlbsl@gmail.com" }
+        ]
+      },
+      {
+        "province": "Lumbini",
+        "branchCount": 29,
+        "branches": [
+          { "name": "Tamghas Branch", "manager": "Ganesh Chaudhary", "address": "Resunga Mun, 08, Gulmi", "phone": "9857646205", "email": "tamghas04.cycnlbsl@gmail.com" },
+          { "name": "Shantipur Branch", "manager": "Prakash Regmi", "address": "Chandrakot RM-04, Shantipur", "phone": "9857646211", "email": "shantipur10.cycnlbsl@gmail.com" },
+          { "name": "Tansen Branch", "manager": "Rima Ghatri", "address": "Tansen Mun-02, Tansen", "phone": "9857646212", "email": "tansen11.cycnlbsl@gmail.com" },
+          { "name": "Rampur Branch", "manager": "Keshab Prasad Sharma", "address": "Mushikot 07 Gulmi", "phone": "9857646217", "email": "rampur17.cycnlbsl@gmail.com" },
+          { "name": "Wami Branch", "manager": "Renu Khadka", "address": "Musikot Mun-07, Wami", "phone": "9857646219", "email": "wami19.cycnlbsl@gmail.com" },
+          { "name": "Purtighat Branch", "manager": "Dipendra Ghatri Magar", "address": "Kaligandaki RM- 04, Gulmi", "phone": "9857646223", "email": "purtighat20.cycnlbsl@gmail.com" },
+          { "name": "Chhatragunj Branch", "manager": "Ajaya G.C", "address": "Chatradev RM-05, Arghakhanchi", "phone": "9857646224", "email": "chhatragunj21.cycnlbsl@gmail.com" },
+          { "name": "Simaltari Branch", "manager": "Dhanmaya Nepali", "address": "Malika RM-08, Gulmi", "phone": "9857646221", "email": "simaltari22.cycnlbsl@gmail.com" },
+          { "name": "Khaireni Branch", "manager": "Jagadish Raj Panta", "address": "Satyawati RM-7, Gulmi", "phone": "9857646230", "email": "khaireni25.cycnlbsl@gmail.com" },
+          { "name": "Bardaghat Branch", "manager": "Ramesh Chaudhary", "address": "Bardaghat Mun-07, Jimirebar", "phone": "9857646232", "email": "bardaghat27.cycnlbsl@gmail.com" },
+          { "name": "Butwal Branch", "manager": "Sapana Bhusal", "address": "Butwal Sub-MP City-18, Rupandehi", "phone": "9857646248", "email": "butwal42.cycnlbsl@gmail.com" },
+          { "name": "Banganga Branch", "manager": "Chitra Sharma", "address": "Banganga Mun-1, Kapilbastu", "phone": "9857646250", "email": "banganga44.cycnlbsl@gmail.com" },
+          { "name": "Rapti Branch", "manager": "Suresh Acharya", "address": "Rapti RM-3, Dang", "phone": "9857646251", "email": "rapti45.cycnlbsl@gmail.com" },
+          { "name": "Baijanath Branch", "manager": "Dharmaraj Rawat", "address": "Baijanath Rural Mun-8, Banke", "phone": "9857646252", "email": "baijanath46.cycnlbsl@gmail.com" },
+          { "name": "Ranipur Branch", "manager": "Tanka Bohara", "address": "Thakurbaba Municipality-2, Bardiya", "phone": "9857646254", "email": "ranipur48.cycnlbsl@gmail.com" },
+          { "name": "Ghorahi Branch", "manager": "Birendra Bd. Karki", "address": "Ghorahi SMPC-17, Dang", "phone": "9857646288", "email": "ghorahi77.cycnlbsl@gmail.com" },
+          { "name": "Sainamaina Branch", "manager": "Prakash Paudel", "address": "Sainamaina, Rupandehi", "phone": "071-440032", "email": "sainamaina116.cycnlbsl@gmail.com" },
+          { "name": "Gorusinge Branch", "manager": "Bhikkhu Prasad Chaudhary", "address": "Gorusinge, Kapilbastu", "phone": "076-545027", "email": "gorusinge117.cycnlbsl@gmail.com" },
+          { "name": "Arunkhola Branch", "manager": "Umesh Chaudhary", "address": "Arungkhola, Nawalparasi", "phone": "078-555321", "email": "arunkhola121.cycnlbsl@gmail.com" },
+          { "name": "Chhapiya Branch", "manager": "Rabindra Kumar Mahoto", "address": "Chhapiya, Rupandehi", "phone": "9857646339", "email": "chhapiya122.cycnlbsl@gmail.com" },
+          { "name": "Odari Branch", "manager": "Krishna Yadav", "address": "Odari, Kapilbastu", "phone": "9857646328", "email": "odari125.cycnlbsl@gmail.com" },
+          { "name": "Bhalawari Branch", "manager": "Ganga Godar Acharya", "address": "Bhalawari, Rupandehi", "phone": "071-561969", "email": "bhawari126.cycnlbsl@gmail.com" },
+          { "name": "Chutrabesi Branch", "manager": "RAM BAHADUR G.C", "address": "Chutrabesi, Arghakhanchi", "phone": "9857646327", "email": "chutrabeshi127.cycnlbsl@gmail.com" },
+          { "name": "Belaspur Branch", "manager": "Mekh Raj Joshi", "address": "Belaspur, Nawalparasi", "phone": "9857646337", "email": "bilaspur128.cycnlbsl@gmail.com" },
+          { "name": "Dhekawar Branch", "manager": "Gita Kumari Chaudhary", "address": "Dhokawar, Rupendehi", "phone": "9857646338", "email": "dhokawor130.cycnlbsl@gmail.com" },
+          { "name": "Bhoome Branch", "manager": "Janaki Badal", "address": "Bhoome Rm-04, Western Rukum", "phone": "9857646354", "email": "bhoome108.cycnlbsl@gmail.com" },
+          { "name": "Sunchhahari Branch", "manager": "Samak Thapa", "address": "Sunchhahari Rm-04, Rolpa", "phone": "9857646355", "email": "sunchhahari109.cycnlbsl@gmail.com" },
+          { "name": "Pratappur Branch", "manager": "Abhishek Chaudhary", "address": "Pratappur 08 Nawalparasi", "phone": "9857646233", "email": "pratappur28.cycnlbsl@gmail.com" },
+          { "name": "Khariboat Branch", "manager": "kamana Rayamajhi", "address": "Pyuthan Mum-09, Khariboat", "phone": "9857646356", "email": "khariboat110.cycnlbsl@gmail.com" }
+        ]
+      },
+      {
+        "province": "Karnali",
+        "branchCount": 12,
+        "branches": [
+          { "name": "Prachandra Branch", "manager": "Tularam Thapa", "address": "Khatyang Rm-04, Mugu", "phone": "9857646256", "email": "prachanda50.cycnlbsl@gmail.com" },
+          { "name": "Sinja Branch", "manager": "Janak Shahi", "address": "Sinja Rm-02, Jumla", "phone": "9857646260", "email": "sinja54.cycnlbsl@gmail.com" },
+          { "name": "Simta Branch", "manager": "Nagaendra Acharya", "address": "Simta Rm-07, Surkhet", "phone": "9857646266", "email": "simta60.cycnlbsl@gmail.com" },
+          { "name": "Raskot Branch", "manager": "Bishnu Prasad Pangali", "address": "Raskot Mun-06, Kalikot", "phone": "9857646267", "email": "raskot61.cycnlbsl@gmail.com" },
+          { "name": "Lekhbeshi Branch", "manager": "Srijana Sharma", "address": "Lekhbeshi Mun-01, Surkhet", "phone": "9857646270", "email": "lekhbeshi64.cycnlbsl@gmail.com" },
+          { "name": "Kalimati Branch", "manager": "Madanraj Awasthi", "address": "Kalimati RM-02, Salyan", "phone": "9857646290", "email": "kalimati79.cycnlbsl@gmail.com" },
+          { "name": "Birendranagar Branch", "manager": "Hemraj Joshi", "address": "Birendranagar Mun-12, Surkhet", "phone": "9857646291", "email": "birendranagar80.cycnlbsl@gmail.com" },
+          { "name": "Thatikandh Branch", "manager": "Sagar Shahi", "address": "Thatikandh Rm-01, Dailekh", "phone": "9857646332", "email": "thatikandh103.cycnlbsl@gmail.com" },
+          { "name": "Bheri Branch", "manager": "Kalpana Thapa", "address": "Bheri Mun-11, Jajarkot", "phone": "9857646351", "email": "bheri104.cycnlbsl@gmail.com" },
+          { "name": "Chaurjahari Branch", "manager": "Begam Chand", "address": "Chaurjhari Mun-07, Rukum pachhimm", "phone": "9857646335", "email": "chaurjhari105.cycnlbsl@gmail.com" },
+          { "name": "Mudkechula Branch", "manager": "Rajendra Bahadur Budha", "address": "Mudkechula Rm-06, Dolpa", "phone": "9857646352", "email": "mudkechula106.cycnlbsl@gmail.com" },
+          { "name": "Adanchuli Branch", "manager": "Binod Pant", "address": "Adanchuli Rm-03, Humla", "phone": "9857646353", "email": "adanchuli107.cycnlbsl@gmail.com" }
+        ]
+      },
+      {
+        "province": "Sudurpaschim",
+        "branchCount": 11,
+        "branches": [
+          { "name": "Lamkichuha Branch", "manager": "Madan Singh Mahara", "address": "Lamki Chuha Mun-2, Kailali", "phone": "9857646253", "email": "lamkichuha47.cycnlbsl@gmail.com" },
+          { "name": "Bhimdatta Branch", "manager": "Janak Bdr Dhami", "address": "Bhimdatta Mun-03, Kanchanpur", "phone": "9857646258", "email": "bhimdatta52.cycnlbsl@gmail.com" },
+          { "name": "Mahakali Branch", "manager": "Janak Raj Joshi", "address": "Mahakali Mun-04, Darchula", "phone": "9857646268", "email": "mahakali62.cycnlbsl@gmail.com" },
+          { "name": "Patan Branch", "manager": "PADAM RAJ PANDEYA", "address": "Patan Mun-04, Baitadi", "phone": "9857646269", "email": "patan63.cycnlbsl@gmail.com" },
+          { "name": "Panchadewal Branch", "manager": "Dharmaraj Ghodasaini", "address": "Panchadewal Binayak Mun-06, Accham", "phone": "9857646293", "email": "Panchadewal69.cycnlbsl@gmail.com" },
+          { "name": "Belauri Branch", "manager": "Khemraj Awasthi", "address": "Belauri Mun-10, Kanchanpur", "phone": "9857646278", "email": "Belauri70.cycnlbsl@gmail.com" },
+          { "name": "Amargadhi Branch", "manager": "Ammar Bahadur Dhami", "address": "Amargadhi Mun-07, Daleldhura", "phone": "9857646279", "email": "Amargadhi71.cycnlbsl@gmail.com" },
+          { "name": "Dipyal Branch", "manager": "Bimala Bhandari", "address": "Dipyal Silgadi Mun-05, Doti", "phone": "9857646289", "email": "dipyal78.cycnlbsl@gmail.com" },
+          { "name": "Jayprithivi Branch", "manager": "Rajendra Prashad padhyay", "address": "Jay Prithivi Mun-08, Bajhang", "phone": "9857646292", "email": "jayprithivi81.cycnlbsl@gmail.com" },
+          { "name": "Melauli Branch", "manager": "Manoj Bhat", "address": "Melauli Mun-01, Haripur Baitadi", "phone": "9857646325", "email": "melauli111.cycnlbsl@gmail.com" },
+          { "name": "Budhiganga Branch", "manager": "Arjun Bdr Rawat", "address": "Budhibanga Mun-03, Bajura", "phone": "9857646357", "email": "budhiganga112.cycnlbsl@gmail.com" }
+        ]
+      }
+    ]
+  }
+
+
+}

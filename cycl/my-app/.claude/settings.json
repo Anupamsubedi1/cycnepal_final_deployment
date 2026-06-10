@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/home/bishow/Desktop/cycl/my-app/app/[locale]/admin/\\(protected\\)/contact\")",
+      "Bash(echo \"=== .gitignore ===\"; cat .gitignore; echo \"\"; echo \"=== git tracked env? ===\"; git ls-files | grep -i env; echo \"\\(end\\)\"; echo \"\"; echo \"=== .env.local \\(keys only, redacted values\\) ===\"; sed -E 's/=.*/=<redacted>/' .env.local; echo \"\"; echo \"=== next.config.ts ===\"; cat next.config.ts)",
+      "Bash(sed -n '1,60p' \"app/[locale]/api/admin/vacancies/route.ts\")",
+      "Bash(sed -n '1,70p' \"app/[locale]/api/admin/employees/route.ts\")"
+    ],
+    "additionalDirectories": [
+      "/home/bishow/Desktop/cycl/my-app/app/[locale]/admin/(protected)",
+      "/home/bishow/Desktop/cycl/my-app"
+    ]
+  }
+}

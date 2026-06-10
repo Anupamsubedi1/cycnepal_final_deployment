@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+@keyframes section-fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-section-fade-up {
+  animation: section-fade-up 700ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes ceo-slide-in-right {
+  0% {
+    opacity: 0;
+    transform: translateX(46px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.ceo-slide-in-right {
+  animation: ceo-slide-in-right 780ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-section-fade-up {
+    animation: none;
+  }
+
+  .ceo-slide-in-right {
+    animation: none;
+  }
+}
+
+@theme {
+  --color-teal-deep: #005B5C;
+  --color-teal-mid: #007A8E;
+  --color-mint: #A8D8B9;
+  --color-blush: #F0E5D8;
+  --color-off-white: #F9F9F9;  
+}
+
+/*
+  Seamless marquee.
+  The track holds two identical copies of the content laid out in a row, so the
+  track is exactly twice the content width. Translating it by -50% scrolls past
+  one full copy and lands the second copy precisely where the first began —
+  giving an infinite loop with no jump or gap. Speed is kept constant across
+  notices of any length by deriving the duration from the measured width
+  (see BottomMarqueeClient); only the duration is set from JS, never the
+  animation itself, so the loop never restarts mid-scroll.
+*/
+@keyframes marquee {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.animate-marquee {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  white-space: nowrap;
+  animation: marquee var(--marquee-duration, 30s) linear infinite;
+  /* Promote to its own GPU layer for jank-free compositing. */
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+.marquee-item {
+  display: inline-block;
+  white-space: nowrap;
+  padding: 0.5rem 0;
+  /* Breathing room between the repeated copies. */
+  padding-right: 3rem;
+}
+
+/* Pause on hover/focus for readability and accessibility. */
+.marquee-container:hover .animate-marquee,
+.animate-marquee:hover,
+.animate-marquee:focus-within {
+  animation-play-state: paused;
+}
+
+.animate-marquee,
+.marquee-item,
+.marquee-container {
+  pointer-events: auto;
+}
+
+/* Respect users who prefer reduced motion — show the notice without scrolling. */
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee {
+    animation: none;
+    transform: none;
+  }
+}
+
+/* Prevent horizontal overflow and bottom scrollbar caused by elements exceeding viewport width */
+html, body, #__next {
+  overflow-x: hidden;
+}
+
+/* Ensure images and large containers don't force horizontal scroll */
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Avoid using 100vw which can cause horizontal scroll when vertical scrollbar present */
+.no-100vw {
+  width: 100%;
+  max-width: 100%;
+}

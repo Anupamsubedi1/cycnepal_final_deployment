@@ -1,0 +1,404 @@
+[
+  {
+    "province": "Koshi",
+    "branchCount": 16,
+    "branches": [
+      {
+        "name": "Katahari Branchs",
+        "manager": "Smiriti Kumari Majhi",
+        "address": "Katahari Rm-07,Morang",
+        "phone": "9857646263",
+        "email": "katahari57.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Siddhicharan Branch",
+        "manager": "Kirshna Prasad paudel",
+        "address": "Siddhicharan Mun-02,Okhaldhunga",
+        "phone": "9857646275",
+        "email": "Siddhicharan67.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Illam Branch",
+        "manager": "Upendra Yadav",
+        "address": "Illam Mun-04,Illam",
+        "phone": "9857646276",
+        "email": "Illam68.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Pakhribas Branch",
+        "manager": "Rewati Raman Niraula",
+        "address": "Pakhribas Mun-07,Dhankuta",
+        "phone": "9857646280",
+        "email": "Pakhribas72.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Damak",
+        "manager": "Pramila Basnet",
+        "address": "Damak Mun-01,Jhapa",
+        "phone": "9857646281",
+        "email": "Damak73.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Triyuga Branch",
+        "manager": "Sangita Rai",
+        "address": "Triyuga Mun-01,Udaypur",
+        "phone": "9857646282",
+        "email": "Triyuga74.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Solu Branch",
+        "manager": "Sujan Kathet",
+        "address": "Solu Dudhkunda Mun-04, Solukhumbu",
+        "phone": "9857646305",
+        "email": "solu82.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Manebhanjyang Branch",
+        "manager": "Amita Bachan Sharma",
+        "address": "Manebhanjyang Mun-04.Okhaldunga",
+        "phone": "9857646297",
+        "email": "manebhanjyang83.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Phungling Branch",
+        "manager": "Dhurba Paudel",
+        "address": "Phungling Mun Ward No-03, Taplejung",
+        "phone": "9857646298",
+        "email": "phungling84.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Phidim Branch",
+        "manager": "Khim Maya Sinjali",
+        "address": "Phidim Mun-03, panchthar",
+        "phone": "9857646299",
+        "email": "phidim.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Myanglung Branch",
+        "manager": "Lekh Bahadur Khamcha",
+        "address": "Myanglung Mun-03, Terhathum",
+        "phone": "9857646300",
+        "email": "myanglung85.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Bhojpur Branch",
+        "manager": "Nabin Rai",
+        "address": "Bhojpur Mun-06,Bhojpur",
+        "phone": "9857646301",
+        "email": "bhojpur86.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Hilihang Branch",
+        "manager": "Rina Kumari Kumal",
+        "address": "Hilihang Rm-05,Panchthar",
+        "phone": "9857646302",
+        "email": "hilihang87.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Khandabari Branch",
+        "manager": "Bhim Prasad Budhathoki",
+        "address": "Khandabari Mun-08,sankhuwasabha",
+        "phone": "9857646303",
+        "email": "khandbari88.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Diktel Branch",
+        "manager": "Babita Basnet",
+        "address": "Diktel Rupakot Mujuwagadhi Mun-05,Khotang",
+        "phone": "9857646304",
+        "email": "diktel89.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Inaruwa Branch",
+        "manager": "Deepak Raj Nishad",
+        "address": "Inaruwa Mun -08,Sunsari",
+        "phone": "9857646309",
+        "email": "inaruwa99.cycnlbsl@gmail.com"
+      }
+    ]
+  },
+  {
+    "province": "Madesh",
+    "branchCount": 13,
+    "branches": [
+      {
+        "name": "Ganeshman Branch",
+        "manager": "Ramesh Kumar Yadav",
+        "address": "Ganeshman Charnath Mun-01,Dhanusha",
+        "phone": "9857646255",
+        "email": "ganeshman49.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Lalbandi Branch",
+        "manager": "Subodh Kumar Yadav",
+        "address": "Lalbandi Mun-08,Sarlahi",
+        "phone": "9857646261",
+        "email": "lalbandi55.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Gaur Branch",
+        "manager": "BIVEK KUMAR SHAH",
+        "address": "Gaur Mun-02,Rautahat",
+        "phone": "9857646245",
+        "email": "gaur66.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Bardibas Branch",
+        "manager": "Dev Sundar Mandal",
+        "address": "Bardibas Mun-05,Mahottari",
+        "phone": "9857646283",
+        "email": "Bardibas75.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Birgunj",
+        "manager": "SUSHIL PRASAD YADAV",
+        "address": "Birgunj MPC-17,Parsa",
+        "phone": "9857646287",
+        "email": "birgunj76.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Golbazar Branch",
+        "manager": "Pinky Chaudhary",
+        "address": "Siraha Mun-08,Golbazar",
+        "phone": "9857646343",
+        "email": "golbazar91.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Rajbiraj Branch",
+        "manager": "Jivach Yadav",
+        "address": "Saptari Mun-08,Rajbiraj",
+        "phone": "9857646344",
+        "email": "rajbiraj92.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Bhawani Branch",
+        "manager": "Devnath Patel",
+        "address": "Girabhawani Rm-03,parsa",
+        "phone": "9857646346",
+        "email": "bhawani94.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Nijgadh Branch",
+        "manager": "Ambikaesh Kumar Yadav",
+        "address": "Nijgadh Mun-11,Bara",
+        "phone": "9857646347",
+        "email": "nijgadh96.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Durgabhagwati Branch",
+        "manager": "SANTOSH PRASAD SAH",
+        "address": "Durgabhagwati Rm-4,Rautahat",
+        "phone": "9857646348",
+        "email": "durgabhagwati97.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Bagmati Branch",
+        "manager": "Ayan Mishra",
+        "address": "Bagmati Mun-5,Sarlahi",
+        "phone": "9857646349",
+        "email": "bagmati98.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Pipara Branch",
+        "manager": "Suwan Kumar Rajbanshi",
+        "address": "Pipara Rm-07,Mahottari",
+        "phone": "9857646350",
+        "email": "pipara99.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "kshireshwornath Branch",
+        "manager": "NAGENDRA PRASAD SAH",
+        "address": "kshireshwornath Mun-01,Dhanusha",
+        "phone": "9857646336",
+        "email": "kshireshwornath100.cycnlbsl@gmail.com"
+      }
+    ]
+  },
+  {
+    "province": "Bagmati",
+    "branchCount": 14,
+    "branches": [
+      {
+        "name": "Dhading Branch",
+        "manager": "Keshavraj Timilsina",
+        "address": "Nilkhantha Mun-03,Dhading",
+        "phone": "9857646201",
+        "email": "dhading32.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Nuwakot Branch",
+        "manager": "Bishnu Prasad Ghimire",
+        "address": "Bidur Mun-08,Nuwakot",
+        "phone": "9857646236",
+        "email": "nuwakot33.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Mugling Branch",
+        "manager": "Sudarshan Paudel",
+        "address": "Ichchha Kamana RM-06,Mugling",
+        "phone": "9857646235",
+        "email": "mugling34.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Shami Branch",
+        "manager": "Amrit Subedi",
+        "address": "Budhanilkhantha Mun-6,Kathmandu",
+        "phone": "9857646247",
+        "email": "shami40.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Kalpavrikshya Branch",
+        "manager": "Biva Roy",
+        "address": "Godawari Mun-9,Lalitpur",
+        "phone": "9857646246",
+        "email": "kalpavriksha41.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Kanchan Branch",
+        "manager": "Dipesh Majhi",
+        "address": "Choutara Sangachowkgadhi Mun-10,Sindhupalchok",
+        "phone": "9857646249",
+        "email": "kanchan43.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Tamakoshi Branch",
+        "manager": "Alina Pun",
+        "address": "Likhu Tamakoshi Rm-06,Ramechap",
+        "phone": "9857646257",
+        "email": "tamakoshi51.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Golanjor Branch",
+        "manager": "Devraj Giri",
+        "address": "Golanjor-06,Sindhuli",
+        "phone": "9857646262",
+        "email": "golanjor56.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Patlekhet Branch",
+        "manager": "Mina Shrees",
+        "address": "Dhulikhel Mun-11,Kavrepalanchok",
+        "phone": "9857646264",
+        "email": "patlekhet58.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Bhimeshwor Branch",
+        "manager": "Prasuna Pandit",
+        "address": "Bhimeshwor Mun-02,Dolakha",
+        "phone": "9857646265",
+        "email": "bhimeshwor59.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Panauti Branch",
+        "manager": "Sandip Chamar",
+        "address": "Panauti Mun-09,Kavrepalanchok",
+        "phone": "9857646271",
+        "email": "panauti65.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Thaha Branch",
+        "manager": "Mina Chaudhary",
+        "address": "Thaha Mun-04,Makwanpur",
+        "phone": "9857646294",
+        "email": "thaha82.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Sudal Branch",
+        "manager": "Uma devi Gautam",
+        "address": "Changunarayan Mun-08,Bhaktapur",
+        "phone": "9857646295",
+        "email": "sudal95.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Kalika Branch",
+        "manager": "Chhand Prasad Aryal",
+        "address": "kalika Mun-01,Ramche Rasuwa",
+        "phone": "9857646322",
+        "email": "kalika93.cycnlbsl@gmail.com"
+      }
+    ]
+  },
+  {
+    "province": "Gandaki",
+    "branchCount": 29,
+    "branches": [
+      {
+        "name": "Baglung Branch",
+        "manager": "Rajak Bishowkarma",
+        "address": "Baglung Mun-03,Baglung",
+        "phone": "9857646203",
+        "email": "baglung02.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Khairenitar Branch",
+        "manager": "Dhirendra pd Neupane",
+        "address": "Suklagandagi 7 Tanahaun",
+        "phone": "9857646216",
+        "email": "khairenitar16.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Hatiya Branch",
+        "manager": "Radhika Thapa",
+        "address": "Galkot Mun-03,Hatiya",
+        "phone": "9857646204",
+        "email": "hatiya03.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Besisahar Branch",
+        "manager": "Bhoj Bahadur Lohar",
+        "address": "Besisahar Mun-07,Lamjung",
+        "phone": "9857646206",
+        "email": "besisahar05.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Sundarbazar Branch",
+        "manager": "Dipak Khatri",
+        "address": "Sundarbazar Mun-07,Lamjung",
+        "phone": "9857646207",
+        "email": "sundarbazar06.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Kharbang Branch",
+        "manager": "Yanu Buda Magar",
+        "address": "Badigaad RM-02,Kharbang",
+        "phone": "9857646208",
+        "email": "kharbang07.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Burtibang Branch",
+        "manager": "Rita Thapa",
+        "address": "Dhorpatan Mun-01,Burtibang",
+        "phone": "9857646209",
+        "email": "burtibang08.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Kushmishera Branch",
+        "manager": "Sabitri Sharma",
+        "address": "Jaimini Mun-01,Kushmishera",
+        "phone": "9857646210",
+        "email": "kushmishera09.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Belbagar Branch",
+        "manager": "Tabita Thapa",
+        "address": "Jaimini Mun-08,Baglung",
+        "phone": "9857646222",
+        "email": "belbagar12.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Bareng Branch",
+        "manager": "Narmaya Thapa",
+        "address": "Bareng RM-02,Baglung",
+        "phone": "9857646213",
+        "email": "bareng13.cycnlbsl@gmail.com"
+      },
+      {
+        "name": "Acchete Branch",
+        "manager": "Jhalak Paudel",
+        "address": "Kanthekhola RM-02,Baglung",
+        "phone": "9857646214",
+        "email": "acchete14.cycnlbsl@gmail.com"
+      }
+    ]
+  }
+]
