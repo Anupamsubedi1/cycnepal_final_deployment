@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import type { AboutCompanyInfo } from "@/services/about-company-info-service";
@@ -18,7 +18,6 @@ export function WelcomeSection({ aboutCompanyInfo }: WelcomeSectionProps) {
   const locale = useLocale();
   const t = useTranslations('Home');
   const [visible, setVisible] = useState(false);
-  const sectionRef = useRef<HTMLElement | null>(null);
 
   const localizedHeading =
     locale === "ne"
@@ -30,21 +29,11 @@ export function WelcomeSection({ aboutCompanyInfo }: WelcomeSectionProps) {
       ? aboutCompanyInfo?.["description-ne"] || aboutCompanyInfo?.description || aboutCompanyInfo?.["description-en"] || ""
       : aboutCompanyInfo?.["description-en"] || aboutCompanyInfo?.description || aboutCompanyInfo?.["description-ne"] || "";
 
+  // Play the entrance animation as soon as the page lands so the Welcome
+  // section is reliably visible instead of staying hidden until scrolled into view.
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setVisible(true);
-        }
-      },
-      { threshold: 0.25 },
-    );
-
-    if (sectionRef.current) {
-      observer.observe(sectionRef.current);
-    }
-
-    return () => observer.disconnect();
+    const id = requestAnimationFrame(() => setVisible(true));
+    return () => cancelAnimationFrame(id);
   }, []);
 
   return (
@@ -60,7 +49,6 @@ export function WelcomeSection({ aboutCompanyInfo }: WelcomeSectionProps) {
         }
       `}</style>
       <section
-        ref={sectionRef}
         className="w-full bg-[#efefef] pb-10 sm:pb-14 lg:pb-16"
       >
       <div className="mx-auto grid w-full max-w-7xl grid-cols-1 items-start gap-10 px-4 sm:px-6 lg:grid-cols-[1.06fr_0.94fr] lg:gap-12 lg:px-8">
